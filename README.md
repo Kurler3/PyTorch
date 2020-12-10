@@ -1,2 +1,2 @@
-# RNN_MNIST
-First RNN Implementation using PyTorch
+# PyTorch
+All the implementations that I did in Pytorch will be in this repository
